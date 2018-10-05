@@ -87,7 +87,7 @@ In the search field type PayPal for WooCommerce and click Search Plugins. Once y
  
 = Usage = 
 
-1. Open the settings page for WooCommerce and click the "Checkout" tab
+1. Open the settings page for WooCommerce and click the "Payments" tab
 2. Click on the sub-item for PayPal Express Checkout or Payments Pro.
 3. Enter your API credentials and adjust any other settings to suit your needs. 
 
@@ -119,7 +119,7 @@ Automatic updates should work great for you.  As always, though, we recommend ba
 = Where do I get my API credentials? =
 
 * Live credentials can be obtained by signing in to your live PayPal account here:  https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-api-run
-* Sandbox credentials can be obtained by viewing the sandbox account profile within your PayPal developer account, or by signing in with a sandbox account here:  https://www.sandbox.paypal.com/us/cgi-bin/webscr?cmd=_login-api-run
+* Sandbox credentials can be obtained by viewing the sandbox account profile within your PayPal developer account, or by signing in with a sandbox account here:  https://www.sandbox.paypal.com/businessprofile/mytools/apiaccess/firstparty/signature
 
 = How do I know which version of Payments Pro I have? = 
 * If you have a PayPal Manager account at http://manager.paypal.com as well as your regular PayPal account at http://www.paypal.com, then you are on Payments Pro 2.0.
